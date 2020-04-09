@@ -1,5 +1,5 @@
 # automateGit
-Projeto sobre automatização de padrões e mensagens de commit do Git. 
+Projeto sobre padronização de mensagens de commit do GIT. 
 
 ## Tecnologias utilizadas
 
